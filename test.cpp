@@ -162,5 +162,6 @@ public:
 	}
 };
 int main(){
+	cout<<"Hello World";
 	tictactoe t;
 }
